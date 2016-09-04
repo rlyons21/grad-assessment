@@ -64,3 +64,17 @@ body, p{
 	margin-top:2px;
 	padding-left: 15px;
 }
+.writeComment{
+	width:550px;
+	height:20px;
+}
+.postFooter{
+	display:flex;
+	justify-content: space-between;
+	align-content: center;
+	margin:5px;
+	padding:0px 5px 0px 5px;
+}
+.name{
+	font-weight: bold;
+}
